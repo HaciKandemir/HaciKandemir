@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Back-End Developer who’s been interested in software since high school, who's now a senior student in Computer Programming at University, who's constantly trying to improve himself by researching new things
+I'm a Full Stack Developer who’s been interested in software since high school, currently actively developing projects with PHP/Symfony and Vue.js, and constantly trying to improve myself by researching new things.
 <!--![](https://komarev.com/ghpvc/?username=HaciKandemir)
 <!--
 **HaciKandemir/HaciKandemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
